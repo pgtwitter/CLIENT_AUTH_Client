@@ -1,0 +1,6 @@
+/bin/
+/client_keystore.p12
+/trustcacerts_keystore.jks
+.classpath
+.project
+*.prefs
